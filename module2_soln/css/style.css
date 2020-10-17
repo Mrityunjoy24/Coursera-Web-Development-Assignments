@@ -2,10 +2,6 @@ html {
     font-size:15px;
 }
 
-body {
-    font-family: 'Josefin Sans', sans-serif;
-}
-
 .page_title {
     text-align: center;
     margin-top: 100px;
@@ -59,8 +55,9 @@ p {
     padding: 5px 15px;
     border-top: none;
     border-right: none;
-    margin-top: -1px;
     position: relative;
+    margin-top: -1px;
+    
     left: 60%;
     width: 40%;
     text-align: center;
